@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\NewTest\\NewTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\entities\\player\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\player\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\entities\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\zenject\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zenject\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\configs\\player\\playerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\configs\\player\\playerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Entities\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Entities\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BootstrapInstaller.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:26:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerModel.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:59:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerConfig.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Configs\\Player\\PlayerConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Configs\\Player\\PlayerConfig.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Configs\\Player\\PlayerConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Configs\\Player\\PlayerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:58:32.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
