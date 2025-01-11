@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\NewTest\\NewTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\zenject\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zenject\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\monobehaviours\\item\\itemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviours\\item\\itemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\monobehaviors\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviors\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\monobehaviors\\inputhandlersselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviors\\inputhandlersselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\interfaces\\iinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\handlers\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handlers\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\handlers\\desktopinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handlers\\desktopinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\configs\\playerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\configs\\playerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\Objects\\Interactable\\PickupableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Monobehaviors\\Objects\\Interactable\\PickupableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Interfaces\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\github\\newtest\\newtest\\assets\\scripts\\entities\\player\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\entities\\player\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\monobehaviours\\player\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviours\\player\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,140 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InputHandlersSelector.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\InputHandlersSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Monobehaviors\\InputHandlersSelector.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\InputHandlersSelector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Monobehaviors\\InputHandlersSelector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ItemAsset.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T02:01:44.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMovable.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IMovable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IMovable.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IMovable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IMovable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T02:01:42.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovementHandler.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Handlers\\MovementHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Handlers\\MovementHandler.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Handlers\\MovementHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Handlers\\MovementHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T02:01:30.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IInputHandler.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IInputHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IInputHandler.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IInputHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IInputHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T02:01:16.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DesktopInputHandler.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Handlers\\DesktopInputHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Handlers\\DesktopInputHandler.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Handlers\\DesktopInputHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Handlers\\DesktopInputHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T02:00:57.98Z"
+              "WhenOpened": "2025-01-11T03:33:10.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PlayerAsset.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\PlayerAsset.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Monobehaviors\\PlayerAsset.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\PlayerAsset.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Monobehaviors\\PlayerAsset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:59:46.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerConfig.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Configs\\PlayerConfig.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Configs\\PlayerConfig.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Configs\\PlayerConfig.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Configs\\PlayerConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:58:50.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BootstrapInstaller.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Zenject\\BootstrapInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:58:36.323Z",
+              "WhenOpened": "2025-01-11T03:15:42.511Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PlayerModel.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Entities\\Player\\PlayerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:58:26.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IInteractable.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IInteractable.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Interfaces\\IInteractable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:54:24.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PickupableItem.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\Objects\\Interactable\\PickupableItem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Monobehaviors\\Objects\\Interactable\\PickupableItem.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\Monobehaviors\\Objects\\Interactable\\PickupableItem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Monobehaviors\\Objects\\Interactable\\PickupableItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:54:34.349Z"
             }
           ]
         }
