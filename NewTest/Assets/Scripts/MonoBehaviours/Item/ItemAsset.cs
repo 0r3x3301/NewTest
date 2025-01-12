@@ -1,11 +1,12 @@
 using UnityEngine;
+[System.Serializable]
 public class ItemAsset : MonoBehaviour
 {
-    [SerializeField] private ItemConfig _itemConfig;
-    [SerializeField] private int _itemCount = 1;
+    [field: SerializeField] public ItemConfig ItemConfig { get; private set; }
+    public int ItemCount = 1;
 
     public Item GetItem()
     {
-        return new Item(_itemConfig, _itemCount);
+        return new Item(ItemConfig, ItemCount);
     }
 }

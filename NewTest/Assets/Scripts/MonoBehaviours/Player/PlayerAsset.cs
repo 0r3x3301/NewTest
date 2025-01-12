@@ -9,6 +9,8 @@ public class PlayerAsset : MonoBehaviour
     [SerializeField] private Transform _transform;
     [SerializeField] private CharacterController _characterController;
     [SerializeField] private ItemTaker _itemTaker;
+    [SerializeField] private ObjectSelector _objectSelector;
+    [SerializeField] private ResourceMiner _resourceMiner;
 
     private NonPhysicMovementHandler _movementHandler;
     private RotationHandler _rotationHandler = new();
@@ -19,12 +21,15 @@ public class PlayerAsset : MonoBehaviour
         if (_characterController == null) _characterController = GetComponent<CharacterController>();
         if (_transform == null) _transform = GetComponent<Transform>();
         if (_itemTaker == null) _itemTaker = GetComponent<ItemTaker>();
+        if (_objectSelector == null) _objectSelector = GetComponent<ObjectSelector>();
+        if (_resourceMiner == null) _resourceMiner = GetComponent<ResourceMiner>();
     }
 
     private void Awake()
     {
         _movementHandler = new(_characterController);
         _itemTaker.Init(_inventory);
+        _resourceMiner.Init(_objectSelector);
     }
 
     private void Update()

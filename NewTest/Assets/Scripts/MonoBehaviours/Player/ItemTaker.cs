@@ -1,14 +1,16 @@
 using UnityEngine;
+using Zenject;
 public class ItemTaker : MonoBehaviour
 {
     [SerializeField] Transform _transform;
     private Inventory _inventory;
     private ItemMagnet _itemMagnet;
+    [Inject] private ItemPool _itemPool;
 
     public void TakeItem(ItemAsset itemAsset)
     {
         _inventory.Append(itemAsset.GetItem());
-        Destroy(itemAsset.gameObject);
+        _itemPool.Deactivate(itemAsset);
     }
 
     private void OnValidate()
