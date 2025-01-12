@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Github\\NewTest\\NewTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\monobehaviours\\item\\itemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviours\\item\\itemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\nonmonobehaviours\\handlers\\itemmagnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nonmonobehaviours\\handlers\\itemmagnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|d:\\github\\newtest\\newtest\\assets\\scripts\\monobehaviours\\player\\itemtaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviours\\player\\itemtaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\monobehaviours\\player\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviours\\player\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|D:\\Github\\NewTest\\NewTest\\assets\\scripts\\nonmonobehaviours\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB9303-398C-7AC1-A54B-68B1F10048F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nonmonobehaviours\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ItemAsset.cs",
-              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
-              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MonoBehaviours\\Item\\ItemAsset.cs",
+              "Title": "ItemMagnet.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\NonMonoBehaviours\\Handlers\\ItemMagnet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NonMonoBehaviours\\Handlers\\ItemMagnet.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\NonMonoBehaviours\\Handlers\\ItemMagnet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NonMonoBehaviours\\Handlers\\ItemMagnet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T03:33:10.948Z",
+              "WhenOpened": "2025-01-11T23:17:38.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ItemTaker.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Player\\ItemTaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonoBehaviours\\Player\\ItemTaker.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Player\\ItemTaker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonoBehaviours\\Player\\ItemTaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:59:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerAsset.cs",
               "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
               "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
               "RelativeToolTip": "Assets\\Scripts\\MonoBehaviours\\Player\\PlayerAsset.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T03:15:42.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T22:55:35.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\NonMonoBehaviours\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NonMonoBehaviours\\Inventory.cs",
+              "ToolTip": "D:\\Github\\NewTest\\NewTest\\Assets\\Scripts\\NonMonoBehaviours\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NonMonoBehaviours\\Inventory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:40:49.494Z"
             }
           ]
         }
